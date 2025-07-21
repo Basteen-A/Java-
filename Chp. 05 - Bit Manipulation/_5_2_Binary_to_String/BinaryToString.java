@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+// github.com/Basteen-A
 
 package _5_2_Binary_to_String;
 

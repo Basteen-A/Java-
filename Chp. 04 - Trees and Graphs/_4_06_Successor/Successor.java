@@ -1,4 +1,3 @@
-// github.com/RodneyShag
 
 package _4_06_Successor;
 

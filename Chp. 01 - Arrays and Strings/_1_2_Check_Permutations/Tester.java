@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+// github.com/Basteen-A
 
 package _1_2_Check_Permutations;
 

@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+// github.com/Basteen-A
 
 package _10_08_Find_Duplicates;
 

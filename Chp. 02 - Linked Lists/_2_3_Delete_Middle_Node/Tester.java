@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+
 
 package _2_3_Delete_Middle_Node;
 

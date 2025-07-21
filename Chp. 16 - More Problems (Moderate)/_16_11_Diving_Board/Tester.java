@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+// github.com/Basteen-A
 
 package _16_11_Diving_Board;
 

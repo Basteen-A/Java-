@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+
 
 package _3_6_Animal_Shelter;
 

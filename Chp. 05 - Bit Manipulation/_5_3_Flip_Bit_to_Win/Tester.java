@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+// github.com/Basteen-A
 
 package _5_3_Flip_Bit_to_Win;
 

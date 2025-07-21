@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+
 
 package _3_2_Stack_Min;
 

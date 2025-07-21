@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+
 
 package _2_8_Loop_Detection;
 

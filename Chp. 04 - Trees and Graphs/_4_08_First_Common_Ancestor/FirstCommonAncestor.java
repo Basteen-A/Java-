@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+
 
 package _4_08_First_Common_Ancestor;
 

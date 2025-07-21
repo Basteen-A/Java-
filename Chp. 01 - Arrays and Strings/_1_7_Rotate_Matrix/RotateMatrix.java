@@ -1,4 +1,3 @@
-// github.com/RodneyShag
 
 package _1_7_Rotate_Matrix;
 

@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+
 
 package _16_03_Intersection;
 

@@ -1,5 +1,3 @@
-// github.com/RodneyShag
-
 package _1_5_One_Away;
 
 public class Tester {

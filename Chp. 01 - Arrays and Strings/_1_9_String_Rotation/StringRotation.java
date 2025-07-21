@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+
 
 package _1_9_String_Rotation;
 

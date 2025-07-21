@@ -1,4 +1,4 @@
-// github.com/RodneyShag
+
 
 package _1_8_Zero_Matrix;
 

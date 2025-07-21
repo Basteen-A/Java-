@@ -1,4 +1,3 @@
-// github.com/RodneyShag
 
 package _2_7_Intersection;
 

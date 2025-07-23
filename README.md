@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Efficient solutions to [Cracking the Coding Interview](https://www.google.com/search?q=cracking+the+coding+interview&rlz=1C1CHBF_enUS799US799&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi77_-fvKTiAhVlCTQIHS-HDVEQ_AUIESgE&biw=2058&bih=1232#imgrc=SaWap06r2CBEiM:) problems
 
 <img height=250 src="https://images-na.ssl-images-amazon.com/images/I/51F6Lwyq5JL._SX348_BO1,204,203,200_.jpg">
@@ -39,3 +40,9 @@ All the code should now be visibile in the **Package Explorer** on the left of t
 [instructions_3]: https://github.com/RodneyShag/Cracking-the-Coding-Interview_solutions/blob/master/screenshots/instructions_3.png
 [instructions_4]: https://github.com/RodneyShag/Cracking-the-Coding-Interview_solutions/blob/master/screenshots/instructions_4.png
 [instructions_5]: https://github.com/RodneyShag/Cracking-the-Coding-Interview_solutions/blob/master/screenshots/instructions_5.png
+=======
+JAVA BASICS
+* DATA TYPES Problems
+* CONTROL STATEMENTS Problems
+* DATA STRUCTURES Problems
+>>>>>>> fc671dfccc4c844803cd16bc4e158dfcfa4a68fb
